@@ -1,0 +1,39 @@
+body{
+background-color: rgb(27, 27, 27);
+color: white;
+font-family: Arial;
+}
+
+.header{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.click-button{
+width: 120px;
+height: 120px;
+border-radius: 60px;
+border: 3px solid white;
+background-color: transparent;
+margin-right: 10px;
+cursor: pointer;
+}
+
+.click-icon{
+  height: 50px;
+}
+
+.reset-button{
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 15px;
+  border: none;
+  background-color: white;
+}
+
+.js-result{
+  font-size: 25px;
+  font-weight: bold;
+}
